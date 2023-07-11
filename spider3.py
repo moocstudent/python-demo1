@@ -9,7 +9,7 @@ htmlText = response.text
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    passwd="zhangqi1112",
+    passwd="****",
     autocommit=1
 )
 print('db operation')
