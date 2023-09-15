@@ -11,7 +11,7 @@ mydb = mysql.connector.connect(
     user="root",
     passwd="****",
     autocommit=1
-)
+)   
 print('db operation')
 heCursor = mydb.cursor()
 heCursor.execute("CREATE DATABASE IF NOT EXISTS phrase")

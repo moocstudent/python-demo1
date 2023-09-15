@@ -1,0 +1,5 @@
+// Red-Black Tree
+digraph {
+	<__main__.Node object at 0x114087a30> -> <__main__.Node object at 0x114087bb0> [color=red]
+	<__main__.Node object at 0x114087a30> -> <__main__.Node object at 0x114087970> [color=red]
+}
